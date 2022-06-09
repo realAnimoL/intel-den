@@ -1,6 +1,8 @@
 # README
 This repository is a collection of useful links pointing to threat intelligence talks, courses, books or any other topic where threat intelligence can help your organizastion or your team when analyzing threats or groups.
 
+## Conferences and talks
+
 | **Link**                                    | **Title**                                                                                           |
 |---------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | https://www.youtube.com/watch?v=-1ygjCFTWps | Mark Your Calendars: Why Dates Matter to Adversaries                                                |
@@ -59,3 +61,6 @@ This repository is a collection of useful links pointing to threat intelligence 
 | https://www.youtube.com/watch?v=v5CoPkeVQCI | MITRE ATT&CKcon 2.0: Flashback with ATT&CK - Exploring Malware History with ATT&CK (2003-2018)      |
 | https://www.youtube.com/watch?v=AsSAsBdkns0 | MITRE ATT&CKcon 2.0: Raiders of the MITRE Framework: How to Build Your Own Threat Library           |
 |                                             |                                                                                                     |
+
+## Books
+
