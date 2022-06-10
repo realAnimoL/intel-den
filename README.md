@@ -62,6 +62,7 @@ This repository is a collection of useful links pointing to threat intelligence 
 | https://www.youtube.com/watch?v=AsSAsBdkns0 | MITRE ATT&CKcon 2.0: Raiders of the MITRE Framework: How to Build Your Own Threat Library           |
 | https://www.youtube.com/watch?v=n_6f_FKEzxo | DeadRinger: Three APTs Walk into a Bar                                                              |
 | https://www.youtube.com/watch?v=ho_rAgKXCss | ATT&CK™ Your CTI w/ Lessons Learned from 4 Years in the Trenches                                    |
+| https://www.youtube.com/watch?v=N1ZmFYlNlR8 | HackInBo® Winter Edition 2019 "Evoluzione degli APT attraverso la supply chain"|
 
 ## Books
 
