@@ -64,7 +64,6 @@ This repository is a collection of useful links pointing to threat intelligence 
 | https://www.youtube.com/watch?v=ho_rAgKXCss | ATT&CK™ Your CTI w/ Lessons Learned from 4 Years in the Trenches                                    |             |
 | https://www.youtube.com/watch?v=N1ZmFYlNlR8 | HackInBo® Winter Edition 2019 "Evoluzione degli APT attraverso la supply chain"                     |             |
 | https://www.youtube.com/watch?v=T9WV_sr_2qk | BHIS: How To Use Threat Intelligence                                                                |             |
-| https://www.youtube.com/watch?v=jzHw8lkocXA | Conventional Intelligence Analysis in Cyber Threat Intelligence                                     |             |
 
 ## Books
 
